@@ -3,6 +3,8 @@
 
 Окончила курсы "frontend разработчик" на Яндекс.Практикум. Теперь нахожусь в активном поиске работы в области фронтэнда.
 
+
+
 ### При выполнении учебных проектов пользовались:
 
 HTML, CSS, адаптивная верстка, файловая структура по БЭМ
@@ -18,11 +20,15 @@ HTML, CSS, адаптивная верстка, файловая структу�
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+
+
 ### Дополнительная информация
 На работе активно использую:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 
 ### Мои контакты
 email: omanaeva@yandex.ru
