@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет!
+Я **Ольга**, окончила курсы "frontend разработчик" на Яндекс.Практикум. Теперь нахожусь в активном поиске работы в области фронтэнда.
+
+В процессе обучения применяла:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 <!--
 **OlgMan2411/OlgMan2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
